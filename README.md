@@ -9,3 +9,6 @@ Lista de reclamações:
 1 - Nível de didática muito baixo;
 2 - Vídeos desatualizados;
 3 - Não há explicações de que para que serve o que é feito.
+
+Não precisamos descer o nível.
+Não haverá xingamentos, isso é falte de educação.
