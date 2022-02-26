@@ -4,3 +4,8 @@ Nesse curso é tentado ensinar como contribuir com projetos de código aberto.
 Pórém a didática é muito ruim.
 
 Tem que se fazer tudo sozinho.
+
+Lista de reclamações:
+1 - Nível de didática muito baixo;
+2 - Vídeos desatualizados;
+3 - Não há explicações de que para que serve o que é feito.
