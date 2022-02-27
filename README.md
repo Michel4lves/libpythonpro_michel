@@ -14,3 +14,17 @@ Lista de reclamações:
 
 Não precisamos descer o nível.
 Não haverá xingamentos, isso é falte de educação.
+
+Para instalar:
+
+'''console
+py -3 -m venv .venv
+Não entendi como ativar essa jossa no windows
+pip install -r requirements-dev.txt
+'''
+
+Para conferir qualidade de código:
+'''console
+flake8
+'''
+
