@@ -5,6 +5,8 @@ Pórém a didática é muito ruim.
 
 Tem que se fazer tudo sozinho.
 
+Suportada versão 3 de python
+
 Lista de reclamações:
 1 - Nível de didática muito baixo;
 2 - Vídeos desatualizados;
