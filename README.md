@@ -19,7 +19,7 @@ Para instalar:
 
 '''console
 py -3 -m venv .venv
-Não entendi como ativar essa jossa no windows
+.venv\Scripts\activate
 pip install -r requirements-dev.txt
 '''
 
