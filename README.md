@@ -5,26 +5,28 @@ Pórém a didática é muito ruim.
 Tem que se fazer tudo sozinho.
 
 Link para o curso [Dev Pro] (https://plataforma.dev.pro.br/)
-[![Build Status](https://app.travis-ci.com/Michel4lves/libputhonpro.svg?branch=master)](https://app.travis-ci.com/Michel4lves/libputhonpro)
 
-Suportada versão 3 de python
-Github Actions funcionando
+Suportada versão 3 de python.
+
+Github Actions funcionando.
 
 Lista de reclamações:
-1 - Nível de didática muito baixo;
-2 - Vídeos desatualizados;
-3 - Não há explicações de que para que serve o que é feito.
+1. Nível de didática muito baixo;
+2. Vídeos desatualizados;
+3. Não há explicações de que para que serve o que é feito.
 
 Para instalar:
 
-'''console
-py -3 -m venv .venv
-.venv\Scripts\activate
-pip install -r requirements-dev.txt
-'''
+console
+
+    py -3 -m venv .venv
+    .venv\Scripts\activate
+    pip install -r requirements-dev.txt
+
 
 Para conferir qualidade de código:
-'''console
-flake8
-'''
+
+console
+
+    flake8
 
