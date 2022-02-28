@@ -20,8 +20,8 @@ jobs:
         architecture: x64
     - name: Instalar dependências
       run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements-dev.txt
+        python -q -m pip install --upgrade pip
+        pip install -q -r requirements-dev.txt
     - name: Lint with flake8
       run: |
         # stop the build if there are Python syntax errors or undefined names 
