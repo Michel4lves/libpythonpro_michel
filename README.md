@@ -6,6 +6,9 @@ Tem que se fazer tudo sozinho.
 
 Link para o curso [Dev Pro] (https://plataforma.dev.pro.br/)
 
+[![Updates](https://pyup.io/repos/github/Michel4lves/libputhonpro/shield.svg)](https://pyup.io/repos/github/Michel4lves/libputhonpro/)
+[![Python 3](https://pyup.io/repos/github/Michel4lves/libputhonpro/python-3-shield.svg)](https://pyup.io/repos/github/Michel4lves/libputhonpro/)
+
 Suportada versão 3 de python.
 
 Github Actions funcionando.
