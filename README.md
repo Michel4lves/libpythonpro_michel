@@ -20,7 +20,7 @@ Lista de reclamações:
 
 Para instalar:
 
-console
+consolecls
 
     py -3 -m venv .venv
     .venv\Scripts\activate
