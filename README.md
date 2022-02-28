@@ -6,8 +6,6 @@ Tem que se fazer tudo sozinho.
 
 Link para o curso [Dev Pro] (https://plataforma.dev.pro.br/)
 
-[![Build Status](https://app.travis-ci.com/Michel4lves/libputhonpro.svg?branch=master)](https://app.travis-ci.com/Michel4lves/libputhonpro)
-
 Suportada versão 3 de python.
 
 Github Actions funcionando.
