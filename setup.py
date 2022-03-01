@@ -99,7 +99,7 @@ NAME = PACKAGE
 DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
 AUTHOR = "Michel Alves"
 AUTHOR_EMAIL = "michel4lves.python@gmail.com"
-URL = "https://github.com/Michel4lves/libputhonpro"
+URL = "https://github.com/Michel4lves/libpythonpro"
 VERSION = __import__(PACKAGE).__version__
 
 setup(
