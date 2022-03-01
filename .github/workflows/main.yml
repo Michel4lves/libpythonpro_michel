@@ -1,4 +1,4 @@
-name: libpythonpro-michel-CI
+name: libpythonpro_michel-CI
 
 on:
   push:
