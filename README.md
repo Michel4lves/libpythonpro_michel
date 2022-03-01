@@ -1,4 +1,4 @@
-# libputhonpro
+# libpythonpro
 Módulo para exemplificar construção de projetos Python no curso Pytools. 
 Nesse curso é tentado ensinar como contribuir com projetos de código aberto.
 Pórém a didática é muito ruim.
@@ -7,8 +7,8 @@ Tem que se fazer tudo sozinho.
 Link para o curso: [Dev Pro](https://plataforma.dev.pro.br/)
 
 ![fluxo de trabalho de exemplo](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
-[![Updates](https://pyup.io/repos/github/Michel4lves/libputhonpro/shield.svg)](https://pyup.io/repos/github/Michel4lves/libputhonpro/)
-[![Python 3](https://pyup.io/repos/github/Michel4lves/libputhonpro/python-3-shield.svg)](https://pyup.io/repos/github/Michel4lves/libputhonpro/)
+[![Updates](https://pyup.io/repos/github/Michel4lves/libpythonpro/shield.svg)](https://pyup.io/repos/github/Michel4lves/libpythonpro/)
+[![Python 3](https://pyup.io/repos/github/Michel4lves/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/Michel4lves/libpythonpro/)
 
 Suportada versão 3 de python.
 
