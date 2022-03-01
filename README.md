@@ -5,9 +5,9 @@ Pórém a didática é muito ruim.
 
 Link para o curso: [Dev Pro](https://plataforma.dev.pro.br/)
 
-![fluxo de trabalho de exemplo](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
-[![Updates](https://pyup.io/repos/github/Michel4lves/libpythonpro/shield.svg)](https://pyup.io/repos/github/Michel4lves/libpythonpro/)
-[![Python 3](https://pyup.io/repos/github/Michel4lves/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/Michel4lves/libpythonpro/)
+![workflow](https://github.com/michel4lves/libpythonpro-michel/actions/workflows/main.yml/badge.svg)
+[![Updates](https://pyup.io/repos/github/Michel4lves/libpythonpro-michel/shield.svg)](https://pyup.io/repos/github/Michel4lves/libpythonpro/)
+[![Python 3](https://pyup.io/repos/github/Michel4lves/libpythonpro-michel/python-3-shield.svg)](https://pyup.io/repos/github/Michel4lves/libpythonpro/)
 
 Suportada versão 3 de python.
 
@@ -24,8 +24,8 @@ consolecls
 
     py -3 -m venv .venv
     .venv\Scripts\activate
+    .venv\Scripts\python.exe -m pip install --upgrade pip
     pip install -r requirements-dev.txt
-
 
 Para conferir qualidade de código:
 
