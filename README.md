@@ -13,10 +13,10 @@ Suportada versão 3 de python.
 
 Github Actions funcionando.
 
-Lista de reclamações:
-1. Nível de didática muito baixo;
-2. Vídeos desatualizados;
-3. Não há explicações de que para que serve o que é feito.
+Tópicos a serem abordados:
+1. Git;
+2. Virtualenv;
+3. Pip.
 
 Para instalar:
 
