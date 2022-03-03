@@ -13,10 +13,10 @@ def read(fname):
 
 # Provided as an attribute, so you can append to these instead
 # of replicating them:
-standard_exclude = ["*.py", "*.pyc", "*$py.class", "*~", ".*", "*.bak"]
-standard_exclude_directories = [
+standard_exclude = ("*.py", "*.pyc", "*$py.class", "*~", ".*", "*.bak")
+standard_exclude_directories = (
     ".*", "CVS", "_darcs", "./build", "./dist", "EGG-INFO", "*.egg-info"
-]
+)
 
 
 # (c) 2005 Ian Bicking and contributors; written for Paste (http://pythonpaste.org)
@@ -44,7 +44,7 @@ def find_package_data(
     Directories matching any pattern in ``exclude_directories`` will
     be ignored; by default directories with leading ``.``, ``CVS``,
     and ``_darcs`` will be ignored.
-    If ``show_ignored`` is true, then all the files that aren"t
+    If ``show_ignored`` is true, then all the files that aren't
     included in package data are shown on stderr (for debugging
     purposes).
     Note patterns use wildcards, or can be exact paths (including
