@@ -31,8 +31,9 @@ jobs:
     - name: Test with pytest
       run: |
          pytest libpythonpro --cov=libpythonpro
+    - name: Run tests and collect coverage
+      run: |
+        coverage run tests.py
+        coverage xml
     - name: Upload coverage to Codecov
       uses: codecov/codecov-action@v2
-      with:
-        files: ./coverage.xml
-        fail_ci_if_error: true
