@@ -22,7 +22,7 @@ class Sessao:
 
 class Conexao:
     def __init__(self):
-        sleep(3)
+        sleep(2)
 
     def gerar_sessao(self):
         return Sessao()
