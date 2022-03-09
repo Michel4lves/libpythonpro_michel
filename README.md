@@ -23,7 +23,7 @@ Tópicos a serem abordados:
 
 Para instalar:
 
-consolecls
+console
 
     py -3 -m venv .venv
     .venv\Scripts\activate
