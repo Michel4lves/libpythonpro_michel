@@ -13,15 +13,17 @@ jobs:
     runs-on: windows-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Set up Python 3.10.2
+    - name: Set up Python 3.10
       uses: actions/setup-python@v2
       with:
-        python-version: 3.10.2
+        python-version: 3.10
         architecture: x64
     - name: Install dependêncies
       run: |
         python -q -m pip install --upgrade pip
-        pip install -q -r requirements-dev.txt
+        pip install pipenv -q codecov
+        pipenv sync --dev
+        # pip install -q -r requirements-dev.txt (antigo pelo requeriments.txt)
     - name: Lint with flake8
       run: |
         # stop the build if there are Python syntax errors or undefined names 
